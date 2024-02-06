@@ -15,6 +15,7 @@ module.exports = {
         unnamedComponents: "arrow-function",
       },
     ],
+    "no-console": "error",
     "sort-imports": [
       "error",
       {
